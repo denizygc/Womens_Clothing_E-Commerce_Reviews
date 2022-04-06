@@ -1,4 +1,4 @@
-## Womens Clothing E-Commerce
+## Womens Clothing E-Commerce Reviews
 Estimates for the following task are included in this project. Numpy, pandas, seaborn, imblearn, and sklearn libraries were used in the project.
 
 ![](https://www.bworldonline.com/wp-content/uploads/2021/07/fashion-ecommerce-640x427.jpg)
