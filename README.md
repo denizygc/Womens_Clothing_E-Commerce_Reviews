@@ -6,7 +6,7 @@ Estimates for the following task are included in this project. Numpy, pandas, se
 - [Task](#Task)
 - [1.Reading Data](#1.Reading-Data)
 - [2.Feature Selection](#2.Feature-Selection)
- - [2.1.Unnecessary Columns](#2.1.Unnecessary-Columns)
+ -- [2.1.Unnecessary Columns](#2.1.Unnecessary-Columns)
  - [2.2.Delete the gaps of string variable](#2.2.Delete-the-gaps-of-string-variable)
  - [2.3."Title" & "Review_Text" simplification](#2.3."Title"-&-"Review_Text"-simplification)
 - [3.Exploratory Data Analysis](#3.Exploratory-Data-Analysis)
